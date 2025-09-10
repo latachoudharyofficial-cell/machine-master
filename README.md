@@ -25,3 +25,7 @@ It allows users to add, edit, view, and delete machines with ease.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/machine-master.git
+
+   ## Database
+Import the `database/machine_master.sql` file into MySQL/phpMyAdmin before running the project.
+
